@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://avephill.github.io/2017/10/23/polaroid-williamsburg/</loc>
-<lastmod>2017-10-23T00:00:00-07:00</lastmod>
+<loc>http://avephill.github.io/2013/05/21/kinetic-sculpture-race/</loc>
+<lastmod>2013-05-21T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://avephill.github.io/2019/03/16/plant-slideshow/</loc>
+<lastmod>2019-03-16T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://avephill.github.io/404</loc>
@@ -21,6 +25,18 @@
 </url>
 <url>
 <loc>http://avephill.github.io/style-guide/</loc>
+</url>
+<url>
+<loc>http://avephill.github.io/tag/mechanical/</loc>
+</url>
+<url>
+<loc>http://avephill.github.io/tag/woodworking/</loc>
+</url>
+<url>
+<loc>http://avephill.github.io/tag/programming/</loc>
+</url>
+<url>
+<loc>http://avephill.github.io/tag/botany/</loc>
 </url>
 <url>
 <loc>http://avephill.github.io/assets/documents/anthropocene.pdf</loc>
