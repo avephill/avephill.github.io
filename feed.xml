@@ -6,9 +6,28 @@
 </description>
     <link>http://avephill.github.io</link>
     <atom:link href="http://avephill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Aug 2020 11:43:52 -0700</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2020 11:43:52 -0700</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2020 22:53:23 -0700</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2020 22:53:23 -0700</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Large Hiking Dress</title>
+        <description>&lt;p&gt;I wanted to make a dress for a friend that is too tall and broad-shouldered for most dresses– furthermore, I wanted the material to be good for hiking: light, quickdrying, and breathable. Apparently &lt;a href=&quot;https://www.rockywoods.com/Supplex-Nylon-Fabric-Rust&quot; target=&quot;_blank&quot;&gt;taslanated nylon&lt;/a&gt; is a material with these properties, commonly used to make various outdoor clothing. I turned a &lt;a href=&quot;https://sewguide.com/a-line-dress-pattern/#method_2_a_simple_a_line_dress_with_neck_binding&quot; target=&quot;_blank&quot;&gt;sewing guide&lt;/a&gt; for a simple A-line dress into an R script that builds a dress pattern from 3 simple body measurements. After inputing height, bust, and shoulder measurements, the program produces something like this:
+&lt;img src=&quot;/assets/images/dress_1.png&quot; alt=&quot;Placeholder&quot; /&gt;
+That can then be mapped onto parchment paper and cut out to form a pattern:
+&lt;img src=&quot;/assets/images/dress_2.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;
+After cutting out the material from the patterns, I sewed the top of the shoulders, and down the sides of the dress, and added &lt;a href=&quot;https://en.wikipedia.org/wiki/Bias_tape&quot; target=&quot;_blank&quot;&gt;bias tape&lt;/a&gt; to the neckline and arm holes. I finished by hemming the bottom to the desired height&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2020 00:00:00 -0700</pubDate>
+        <link>http://avephill.github.io/2020/06/17/hiking-dress/</link>
+        <guid isPermaLink="true">http://avephill.github.io/2020/06/17/hiking-dress/</guid>
+        
+        <category>programming</category>
+        
+        <category>sewing</category>
+        
+        
+      </item>
     
       <item>
         <title>Plant Species Flashcards</title>
@@ -21,7 +40,9 @@ The flashcards are grouped by 10 plants so that a user can learn a few plants be
 &lt;p&gt;And back:
 &lt;img src=&quot;/assets/images/pshow_2.png&quot; alt=&quot;Flashcard Back&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;All images are stitched together from &lt;a href=&quot;CalFlora&quot;&gt;https://www.calflora.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you’re interested in messing around with incomplete but functional(?) version you can do so &lt;a href=&quot;/flashcard&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All images are stitched together from &lt;a href=&quot;https://calflora.org&quot; target=&quot;_blank&quot;&gt;CalFlora&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 16 Mar 2019 00:00:00 -0700</pubDate>
@@ -31,6 +52,35 @@ The flashcards are grouped by 10 plants so that a user can learn a few plants be
         <category>programming</category>
         
         <category>botany</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Monterey Jack Cheese</title>
+        <description>&lt;p&gt;I made hard cheese for a lab meeting one term. It was pretty straight forward and turned out edible. I used &lt;a href=&quot;https://cheesemaking.com/products/jack-cheese-recipe&quot; target=&quot;_blank&quot;&gt;this recipe&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The general steps consisted of&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Heat the milk + rennet + bacteria culture and separate curds from whey
+&lt;img src=&quot;/assets/images/cheese_1.jpeg&quot; alt=&quot;Placeholder&quot; /&gt; &lt;img src=&quot;/assets/images/cheese_2.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Figure out someway to press the curds into a mold
+&lt;img src=&quot;/assets/images/cheese_3.jpeg&quot; alt=&quot;Placeholder&quot; /&gt; &lt;img src=&quot;/assets/images/cheese_4.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cover in wax and let sit for weeks/months
+&lt;img src=&quot;/assets/images/cheese_5.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 04 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://avephill.github.io/2019/02/04/hard-cheese/</link>
+        <guid isPermaLink="true">http://avephill.github.io/2019/02/04/hard-cheese/</guid>
+        
+        <category>cooking</category>
         
         
       </item>
