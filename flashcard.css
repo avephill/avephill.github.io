@@ -73,7 +73,7 @@
 .next-Group {
   position:absolute;
   right:10%;
-  top:100px;
+  bottom:100px;
 
   background-color:#add8e6;
   -moz-border-radius:18px;
