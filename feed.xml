@@ -6,17 +6,18 @@
 </description>
     <link>http://avephill.github.io</link>
     <atom:link href="http://avephill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Sep 2020 17:42:10 -0700</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2020 17:42:10 -0700</lastBuildDate>
+    <pubDate>Tue, 23 Mar 2021 10:15:56 -0700</pubDate>
+    <lastBuildDate>Tue, 23 Mar 2021 10:15:56 -0700</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>Large Hiking Dress</title>
-        <description>&lt;p&gt;I wanted to make a dress for a friend that is too tall and broad-shouldered for most dresses– furthermore, I wanted the material to be good for hiking: light, quickdrying, and breathable. Apparently &lt;a href=&quot;https://www.rockywoods.com/Supplex-Nylon-Fabric-Rust&quot; target=&quot;_blank&quot;&gt;taslanated nylon&lt;/a&gt; is a material with these properties, commonly used to make various outdoor clothing. I turned a &lt;a href=&quot;https://sewguide.com/a-line-dress-pattern/#method_2_a_simple_a_line_dress_with_neck_binding&quot; target=&quot;_blank&quot;&gt;sewing guide&lt;/a&gt; for a simple A-line dress into an R script that builds a dress pattern from 3 simple body measurements (please ask me for the code until I get a github repository setup). After inputing height, bust, and shoulder measurements, the program produces something like this:
+        <description>&lt;p&gt;I wanted to make a dress for a friend that is too tall and broad-shouldered for most dresses– furthermore, I wanted the material to be good for hiking: light, quickdrying, and breathable. Apparently &lt;a href=&quot;https://www.rockywoods.com/Supplex-Nylon-Fabric-Rust&quot; target=&quot;_blank&quot;&gt;taslanated nylon&lt;/a&gt; is a material with these properties, commonly used to make various outdoor clothing. I turned a &lt;a href=&quot;https://sewguide.com/a-line-dress-pattern/#method_2_a_simple_a_line_dress_with_neck_binding&quot; target=&quot;_blank&quot;&gt;sewing guide&lt;/a&gt; for a simple A-line dress into an R script that builds a dress pattern from 3 simple body measurements. After inputing height, bust, and shoulder measurements, the program produces something like this:
 &lt;img src=&quot;/assets/images/dress_1.png&quot; alt=&quot;Placeholder&quot; /&gt;
 That can then be mapped onto parchment paper and cut out to form a pattern:
 &lt;img src=&quot;/assets/images/dress_2.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;
-After cutting out the material from the patterns, I sewed the top of the shoulders, and down the sides of the dress, and added &lt;a href=&quot;https://en.wikipedia.org/wiki/Bias_tape&quot; target=&quot;_blank&quot;&gt;bias tape&lt;/a&gt; to the neckline and arm holes. I finished by hemming the bottom to the desired height.&lt;/p&gt;
+After cutting out the material from the patterns, I sewed the top of the shoulders, and down the sides of the dress, and added &lt;a href=&quot;https://en.wikipedia.org/wiki/Bias_tape&quot; target=&quot;_blank&quot;&gt;bias tape&lt;/a&gt; to the neckline and arm holes. I finished by hemming the bottom to the desired height. &lt;br /&gt;
+I turned this pattern-making R script into a webapp so that it can be (hopefully) easily used by other. You can use this link &lt;a href=&quot;https://avephill.shinyapps.io/Auto_Dress_Pattern/&quot;&gt;here&lt;/a&gt; to make you own dress pattern with measurements that are particular to you needs. Please let me know if you can think of ways to improve it.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Jun 2020 00:00:00 -0700</pubDate>
         <link>http://avephill.github.io/2020/06/17/hiking-dress/</link>
@@ -40,7 +41,7 @@ The flashcards are grouped by 10 plants so that a user can learn a few plants be
 &lt;p&gt;And back:
 &lt;img src=&quot;/assets/images/pshow_2.png&quot; alt=&quot;Flashcard Back&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;If you’re interested in messing around with incomplete but functional(?) version you can do so &lt;a href=&quot;/flashcard&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you’re interested in messing around with incomplete but functional(\?) version you can do so &lt;a href=&quot;/flashcard&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;All images are stitched together from &lt;a href=&quot;https://calflora.org&quot; target=&quot;_blank&quot;&gt;CalFlora&lt;/a&gt;.&lt;/p&gt;
 

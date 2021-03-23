@@ -309,10 +309,19 @@
 			}
 		},
 		{
+			"file": "_posts/2020-06-17-hiking-dress.markdown",
+			"settings":
+			{
+				"buffer_size": 1696,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "resources.md",
 			"settings":
 			{
-				"buffer_size": 629,
+				"buffer_size": 744,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -321,16 +330,7 @@
 			"file": "research.md",
 			"settings":
 			{
-				"buffer_size": 632,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "package-lock.json",
-			"settings":
-			{
-				"buffer_size": 307215,
+				"buffer_size": 2488,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -339,7 +339,7 @@
 			"file": "about.html",
 			"settings":
 			{
-				"buffer_size": 767,
+				"buffer_size": 768,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -394,11 +394,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/averyhill/Desktop/Websites/Wrapper Site",
-		"/Users/averyhill/Desktop/Websites/Wrapper Site/_includes"
+		"/Users/averyhill/Desktop/Websites/Avery Site",
+		"/Users/averyhill/Desktop/Websites/Avery Site/_posts"
 	],
 	"file_history":
 	[
+		"/Users/averyhill/Desktop/Websites/Avery Site/package-lock.json",
 		"/Users/averyhill/Desktop/Websites/Wrapper Site/resources.md",
 		"/Users/averyhill/Documents/Funding Applications/Ethics Application/2020/Hill_CV.pdf",
 		"/Users/averyhill/Desktop/Websites/Wrapper Site/research.html",
@@ -525,12 +526,11 @@
 		"/Users/averyhill/Desktop/OfficePortal/Weislander/Rhole/PointViewer.py",
 		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/PointViewer.py",
 		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/Show Map.sh",
-		"/Users/averyhill/Desktop/Circle won't be broken",
-		"/Users/averyhill/Desktop/Abel Sync"
+		"/Users/averyhill/Desktop/Circle won't be broken"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -568,7 +568,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -601,19 +601,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "resources.md",
+					"file": "_posts/2020-06-17-hiking-dress.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 629,
+						"buffer_size": 1696,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								182,
-								182
+								1696,
+								1696
 							]
 						],
 						"settings":
@@ -621,27 +621,27 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 126.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "research.md",
+					"file": "resources.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 632,
+						"buffer_size": 744,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								70,
-								70
+								0,
+								0
 							]
 						],
 						"settings":
@@ -652,35 +652,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "package-lock.json",
+					"file": "research.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 307215,
+						"buffer_size": 2488,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								193104,
-								193112
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 87721.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -689,15 +689,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 767,
+						"buffer_size": 768,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								740,
-								740
+								0,
+								0
 							]
 						],
 						"settings":
@@ -708,7 +708,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -736,7 +736,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -823,7 +823,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 169.0,
+	"side_bar_width": 235.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
