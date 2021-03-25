@@ -6,13 +6,58 @@
 </description>
     <link>http://avephill.github.io</link>
     <atom:link href="http://avephill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Mar 2021 10:27:09 -0700</pubDate>
-    <lastBuildDate>Tue, 23 Mar 2021 10:27:09 -0700</lastBuildDate>
+    <pubDate>Wed, 24 Mar 2021 23:53:08 -0700</pubDate>
+    <lastBuildDate>Wed, 24 Mar 2021 23:53:08 -0700</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
+        <title>Picture Frame</title>
+        <description>&lt;p&gt;This here’s instructions for how I made a picture frame, along with a webapp to help facilitate the measurements for future picture frames.
+The tools I used are&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ruler&lt;/li&gt;
+  &lt;li&gt;table saw&lt;/li&gt;
+  &lt;li&gt;miter saw&lt;/li&gt;
+  &lt;li&gt;band clamp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Materials I used&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;scrap plank, 3/4” thick&lt;/li&gt;
+  &lt;li&gt;picture hanger&lt;/li&gt;
+  &lt;li&gt;plexiglass / glass&lt;/li&gt;
+  &lt;li&gt;cardboard&lt;/li&gt;
+  &lt;li&gt;wood glue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://not_yet.net&quot; target=&quot;_blank&quot;&gt;Here’s the webapp&lt;/a&gt; where you can figure out particular measurements. The width I used for this frame was 1” and the picture size was 5” x 7”.
+First I cut a 1+5/16” piece 
+&lt;img src=&quot;/assets/images/frame1.png&quot; alt=&quot;Placeholder&quot; /&gt;
+And then proceeded to cut two grooves in it, at 3/16” deep and 5/16” deep.
+&lt;img src=&quot;/assets/images/frame2.png&quot; alt=&quot;Placeholder&quot; /&gt;
+Then I turned the piece sideways, and cut to the depth of the 3/16” groove– cutting out the backside
+&lt;img src=&quot;/assets/images/frame3.png&quot; alt=&quot;Placeholder&quot; /&gt;
+I cut two slats to hold the picture frame in from the back instead
+&lt;img src=&quot;/assets/images/frame4.png&quot; alt=&quot;Placeholder&quot; /&gt;
+Then glued the pieces together, clamped it with a band clamp, cut cardboard to 5” x 7”, and screwed in the picture hanger mount
+&lt;img src=&quot;/assets/images/frame5.png&quot; alt=&quot;Placeholder&quot; /&gt;
+Cut a piece of plastic, plexiglass, glass, etc. and put it right on in
+&lt;img src=&quot;/assets/images/frame6.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Mar 2021 00:00:00 -0700</pubDate>
+        <link>http://avephill.github.io/2021/03/18/picture-fame/</link>
+        <guid isPermaLink="true">http://avephill.github.io/2021/03/18/picture-fame/</guid>
+        
+        <category>programming</category>
+        
+        <category>wood</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Large Hiking Dress</title>
-        <description>&lt;p&gt;I wanted to make a dress for a friend that is too tall and broad-shouldered for most dresses– furthermore, I wanted the material to be good for hiking: light, quickdrying, and breathable. Apparently &lt;a href=&quot;https://www.rockywoods.com/Supplex-Nylon-Fabric-Rust&quot; target=&quot;_blank&quot;&gt;taslanated nylon&lt;/a&gt; is a material with these properties, commonly used to make various outdoor clothing. I turned a &lt;a href=&quot;https://sewguide.com/a-line-dress-pattern/#method_2_a_simple_a_line_dress_with_neck_binding&quot; target=&quot;_blank&quot;&gt;sewing guide&lt;/a&gt; for a simple A-line dress into an R script that builds a dress pattern from 3 simple body measurements. After inputing height, bust, and shoulder measurements, the program (which you can access/use &lt;a href=&quot;https://avephill.shinyapps.io/Auto_Dress_Pattern/&quot;&gt;here&lt;/a&gt;) produces something like this:
+        <description>&lt;p&gt;I wanted to make a dress for a friend that is too tall and broad-shouldered for most dresses– furthermore, I wanted the material to be good for hiking: light, quickdrying, and breathable. Apparently &lt;a href=&quot;https://www.rockywoods.com/Supplex-Nylon-Fabric-Rust&quot; target=&quot;_blank&quot;&gt;taslanated nylon&lt;/a&gt; is a material with these properties, commonly used to make various outdoor clothing. I turned a &lt;a href=&quot;https://sewguide.com/a-line-dress-pattern/#method_2_a_simple_a_line_dress_with_neck_binding&quot; target=&quot;_blank&quot;&gt;sewing guide&lt;/a&gt; for a simple A-line dress into an R script that builds a dress pattern from 3 simple body measurements. After inputing height, bust, and shoulder measurements, the program (which you can access/use &lt;a href=&quot;https://avephill.shinyapps.io/Auto_Dress_Pattern/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;) produces something like this:
 &lt;img src=&quot;/assets/images/dress_1.png&quot; alt=&quot;Placeholder&quot; /&gt;
 That can then be mapped onto parchment paper and cut out to form a pattern:
 &lt;img src=&quot;/assets/images/dress_2.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;
